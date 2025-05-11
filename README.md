@@ -4,4 +4,4 @@ This repository corresponds to the ALTEGRAD -MVA course- project, where the obje
 
 
 ## Model architecture 
-![model architecture](./architecture.png)
+![model architecture](./model-architecture.png)
