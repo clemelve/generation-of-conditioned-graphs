@@ -8,4 +8,4 @@ This approach utilizes conditioned latent diffusion models for graph generation,
 ## Model architecture 
 ![model architecture](./model-architecture.png)
 
-(More informations can be found in the project report (./report.pdf)
+(More informations can be found in the project report ('report.pdf').
